@@ -64,12 +64,12 @@ module.exports = function (grunt) {
     clean: {
       end: ['dist/bundle.css', 'dist/bundle.js', '.tmp']
     },
-           copy: {
-               html: {
-                   src: './index.html',
-                  dest: './dist/index.html'
-              }
-          },
+    copy: {
+      html: {
+        src: './index.html',
+        dest: './dist/index.html'
+      }
+    },
 
   });
 
