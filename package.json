@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2017zhaoxiaoxiao/jsnotepad.git"
+    "url": "git+https://github.com/niedan123/jsnotepad.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/2017zhaoxiaoxiao/jsnotepad/issues"
+    "url": "https://github.com/niedan123/jsnotepad/issues"
   },
-  "homepage": "https://github.com/2017zhaoxiaoxiao/jsnotepad#readme",
+  "homepage": "https://github.com/niedan123/jsnotepad#readme",
   "devDependencies": {
     "grunt": "^1.1.0",
     "grunt-contrib-clean": "^2.0.0",
