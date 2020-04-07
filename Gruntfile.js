@@ -70,7 +70,6 @@ module.exports = function (grunt) {
         dest: './dist/index.html'
       }
     },
-
   });
 
   grunt.loadNpmTasks('grunt-htmlhint');
